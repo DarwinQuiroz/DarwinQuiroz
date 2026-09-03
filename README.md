@@ -1,16 +1,22 @@
-## Hi there 👋
+# Darwin Quiroz
 
-<!--
-**DarwinQuiroz/DarwinQuiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero de Sistemas | Desarrollador de Software | Ecuador**
 
-Here are some ideas to get you started:
+📍 Ecuador · [GitHub](https://github.com/DarwinQuiroz) · [LinkedIn](https://www.linkedin.com/in/darwin-quiroz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí
+
+Soy Ingeniero de Sistemas apasionado por la tecnología y el desarrollo de software. Me especializo en la construcción de sistemas backend robustos con **PHP/Laravel** y bases de datos relacionales (**PostgreSQL, MySQL**), trabajando tanto en entornos Windows como Linux.
+
+Mi trabajo se divide entre el desarrollo de **sistemas municipales y gubernamentales** y la creación de **productos propios** orientados al mercado ecuatoriano, con especial atención a la normativa local y a los procesadores de pago de la región.
+
+## Stack técnico
+
+- **Backend:** PHP, Laravel (10–13), Livewire 3
+- **Bases de datos:** PostgreSQL, MySQL
+- **Frontend:** Alpine.js, Tailwind CSS
+- **Infraestructura:** Docker, Nginx, PHP-FPM
+- **Multi-tenancy:** stancl/tenancy
+- **Integraciones locales:** Paymentez/Nuvei, PlacetoPay, PayPhone
