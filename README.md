@@ -2,7 +2,7 @@
 
 **Ingeniero de Sistemas | Desarrollador de Software | Ecuador**
 
-📍 Ecuador · [GitHub](https://github.com/DarwinQuiroz) · [LinkedIn](https://www.linkedin.com/in/darwin-quiroz/)
+📍 Ecuador · [GitHub](https://github.com/DarwinQuiroz) · [LinkedIn](https://www.linkedin.com/in/darwin-quiroz/) · [Instagram](https://www.instagram.com/darwin.qrz/)
 
 ---
 
