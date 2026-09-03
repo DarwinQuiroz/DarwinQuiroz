@@ -16,7 +16,7 @@ Mi trabajo se divide entre el desarrollo de **sistemas municipales y gubernament
 
 - **Backend:** PHP, Laravel (10–13), Livewire 3
 - **Bases de datos:** PostgreSQL, MySQL
-- **Frontend:** Alpine.js, Tailwind CSS
+- **Frontend:** React, Alpine.js, Tailwind CSS
 - **Infraestructura:** Docker, Nginx, PHP-FPM
 - **Multi-tenancy:** stancl/tenancy
 - **Integraciones locales:** Paymentez/Nuvei, PlacetoPay, PayPhone
