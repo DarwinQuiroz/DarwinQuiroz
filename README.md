@@ -19,4 +19,4 @@ Mi trabajo se divide entre el desarrollo de **sistemas municipales y gubernament
 - **Frontend:** React, Alpine.js, Tailwind CSS
 - **Infraestructura:** Docker, Nginx, PHP-FPM
 - **Multi-tenancy:** stancl/tenancy
-- **Integraciones locales:** Paymentez/Nuvei, PlacetoPay, PayPhone
+- **Integraciones locales:** PlacetoPay, PayPhone
